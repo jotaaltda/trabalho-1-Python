@@ -1,5 +1,4 @@
-import os
-import re
+import os, re
 
 def limpar_tela():
     os.system("cls" if os.name == "nt" else "clear")
