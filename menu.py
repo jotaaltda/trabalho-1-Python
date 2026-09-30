@@ -27,8 +27,7 @@ def centralizar(texto):
 def titulo():
     print(Fore.CYAN + Style.BRIGHT)
     centralizar("╔══════════════════════════════════════════════════════╗")
-    centralizar("║                  BATALHA NAVAL                      ║")
-    centralizar("║              TERMINAL COMMAND SYSTEM                ║")
+    centralizar("║                      BATALHA NAVAL                   ║")
     centralizar("╚══════════════════════════════════════════════════════╝")
     print(Style.RESET_ALL)
 
