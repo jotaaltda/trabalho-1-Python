@@ -78,7 +78,7 @@ def menu_partida():
 
         print()
         centralizar("╔══════════════════════════════════════════════════════╗")
-        centralizar("║                    NOVA PARTIDA                    ║")
+        centralizar("║                       NOVA PARTIDA                   ║")
         centralizar("╚══════════════════════════════════════════════════════╝")
         print()
 
